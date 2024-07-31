@@ -35,7 +35,7 @@ Dự án này bao gồm bốn phiên bản khác nhau của Singleton Design Pat
 
 1. **Clone repository:**
    ```bash
-   git clone https://github.com/username/singleton-design-pattern.git
+   git clone https://github.com/RankillerDY/singleton-design-pattern.git
    cd singleton-design-pattern
    ```
 
